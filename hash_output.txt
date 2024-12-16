@@ -1,0 +1,2 @@
+Το SHA-256 hash του 0718 είναι:
+77416e17bdbf5cf590c297eb78f7a8f226d9a0fa5774b6d18708b2ca5a56e0cd
